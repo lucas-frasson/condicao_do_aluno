@@ -1,0 +1,34 @@
+body{
+    font: normal 20pt Arial;
+    background-color: green;
+}
+
+header{
+    text-align: center;
+}
+
+input{
+    font: normal 18pt Arial;
+    width: 120px;
+}
+
+
+input#txtidade{
+    font: normal 18pt Arial;
+    width: 80px;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.541);
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
